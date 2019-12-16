@@ -8,3 +8,5 @@
 3. [naive Bayes classifier](https://drive.google.com/open?id=1CqZ7oYO_AzE3Pzfm79XW6ddeQZYXKrVu) - 
 [tutorial](https://youtu.be/hPQiUk66bLM)
 
+4. [Bayesian Network](https://drive.google.com/open?id=12V0kNALx2l6eh1DDXdLWrY7WC4vBH8zN) - [tutorial 1](https://youtu.be/88Rg58t9114) - [inference(tutorial playlist)](https://www.youtube.com/watch?v=1fVWQ-iZqsw&list=PLBF898A2F63224F39&index=1) 
+
